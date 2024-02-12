@@ -1,0 +1,2 @@
+# STX.Serialization.Providers
+Provide concrete implementations of ISerializationAbstractionProvider
