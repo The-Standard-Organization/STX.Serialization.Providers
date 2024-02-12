@@ -8,7 +8,7 @@
 [![The Standard Community](https://img.shields.io/discord/934130100008538142?color=%237289da&label=The%20Standard%20Community&logo=Discord)](https://discord.gg/vdPZ7hS52X)
 
 ## Introduction
-STX.Serialization.Providers` provides a concrete implementation of ISerializationAbstractionProvider.
+`STX.Serialization.Providers` provides a concrete implementation of `ISerializationAbstractionProvider`.
 
 ## Standard-Compliance
 This library was built according to The Standard. The library follows engineering principles, patterns and tooling as recommended by The Standard.
